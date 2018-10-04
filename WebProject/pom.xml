@@ -11,6 +11,9 @@
     <modules>
         <module>repositorymodule</module>
         <module>webModule</module>
+        <module>securitymodule</module>
+        <module>emailmodule</module>
+        <module>reportmodule</module>
     </modules>
 
 
