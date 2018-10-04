@@ -12,4 +12,17 @@
     <artifactId>webModule</artifactId>
 
 
+    <dependencies>
+
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+
+            </plugin>
+        </plugins>
+    </build>
+
+
 </project>
