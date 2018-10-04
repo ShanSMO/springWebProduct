@@ -3,6 +3,12 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/WebProject.iml" filepath="$PROJECT_DIR$/WebProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/emailmodule/emailmodule.iml" filepath="$PROJECT_DIR$/emailmodule/emailmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reportmodule/reportmodule.iml" filepath="$PROJECT_DIR$/reportmodule/reportmodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repositorymodule/repositorymodule.iml" filepath="$PROJECT_DIR$/repositorymodule/repositorymodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/securitymodule/securitymodule.iml" filepath="$PROJECT_DIR$/securitymodule/securitymodule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webModule/webModule.iml" filepath="$PROJECT_DIR$/webModule/webModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/repositorymodule/webmodule.iml" filepath="$PROJECT_DIR$/repositorymodule/webmodule.iml" />
     </modules>
   </component>
 </project>

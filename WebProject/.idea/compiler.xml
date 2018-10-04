@@ -6,10 +6,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="WebProject" />
+        <module name="emailmodule" />
+        <module name="reportmodule" />
+        <module name="repositorymodule" />
+        <module name="securitymodule" />
+        <module name="webModule" />
+        <module name="webmodule" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="emailmodule" target="1.5" />
+      <module name="reportmodule" target="1.5" />
+      <module name="repositorymodule" target="1.5" />
+      <module name="securitymodule" target="1.5" />
+      <module name="webmodule" target="1.5" />
+      <module name="webModule" target="1.5" />
       <module name="WebProject" target="1.5" />
     </bytecodeTargetLevel>
   </component>
